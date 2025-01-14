@@ -1,6 +1,6 @@
 # Top-Quantum-Tech-Companies
 
-## Tool: Power BI 
+## Tool: Microsoft Power BI 
 
 ### 👇 Microsoft PowerBI Download 👇 
 
